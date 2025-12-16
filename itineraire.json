@@ -1,0 +1,112 @@
+{
+  "pays": "Pays-Bas",
+  "drapeau": "🇳🇱",
+  "symbole": "🌷",
+  "titre": "Rotterdam: Architecture Futuriste et Charme Maritime",
+  "budget_total": "370€",
+  "duree": "1 jour",
+  "temps_vol": "3h depuis Paris, france (en train)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🚆",
+      "titre": "Arrivée et Immersion Architecturale",
+      "legende": "Découvrez Rotterdam, ville résiliente et audacieuse, où l'architecture moderne côtoie l'histoire. Flânez entre les gratte-ciel et les créations innovantes, et laissez-vous surprendre par son dynamisme unique. Une journée pour capter l'essence de cette métropole portuaire, entre design avant-gardiste et ambiance portuaire.",
+      "lieu": "Rotterdam",
+      "activites": [
+        "🚆 <strong>Arrivée à Rotterdam et installation</strong>: Après un voyage confortable en train, déposez vos affaires à l'hôtel pour commencer votre exploration de la ville sans encombre et en toute légèreté.",
+        "🚶‍♀️ <strong>Découverte des Maisons Cubes et du Markthal</strong>: Admirez l'architecture iconique des Maisons Cubes, ces habitations inclinées uniques au monde, puis plongez dans l'ambiance vibrante du Markthal, un marché couvert spectaculaire où saveurs et design se rencontrent sous un plafond artistique.",
+        "🚢 <strong>Balade le long du Vieux Port (Oude Haven)</strong>: Profitez d'une promenade relaxante au bord de l'eau, entouré de bateaux historiques et de terrasses animées, offrant une perspective charmante sur la ville et ses contrastes architecturaux."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Rotterdam est une ville très moderne, reconstruite après la Seconde Guerre mondiale, ce qui explique son architecture audacieuse et innovante."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Le Markthal est idéal pour un déjeuner rapide et varié, avec des stands proposant des spécialités du monde entier et des produits locaux."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Transport",
+          "texte": "La plupart des sites centraux sont accessibles à pied, mais le tram et le métro sont efficaces pour les distances plus longues et pour gagner du temps."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "130€/pers (Train Thalys/Eurostar A/R Paris-Rotterdam)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "15€/pers (Pass journalier transports en commun à Rotterdam)",
+      "symbole": "🚊"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "75€/pers (Déjeuner rapide au Markthal, dîner au restaurant)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "120€/pers (1 nuit en hôtel 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "30€/pers (Entrée pour une attraction majeure ou musée)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai à septembre, pour profiter d'un temps agréable et des terrasses.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Rotterdam est la deuxième plus grande ville des Pays-Bas, avec une population très cosmopolite et jeune, connue pour son ouverture d'esprit.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "Les Pays-Bas sont réputés pour leur tolérance, leurs canaux pittoresques et leur culture cycliste omniprésente; attendez-vous à voir beaucoup de vélos!",
+      "symbole": "🇳🇱"
+    },
+    {
+      "titre": "Rotterdam possède le plus grand port d'Europe et est un véritable laboratoire architectural à ciel ouvert, constamment en évolution.",
+      "symbole": "🏗️"
+    },
+    {
+      "titre": "Bien que le néerlandais soit la langue officielle, l'anglais est très largement parlé et compris, surtout dans les zones touristiques et les commerces.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles de Rotterdam",
+      "titre": "Rotterdam Info",
+      "url": "https://www.rotterdam.info/en/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires et informations sur les transports en commun de Rotterdam",
+      "titre": "RET (Transports Rotterdam)",
+      "url": "https://www.ret.nl/en/",
+      "symbole": "🚊"
+    },
+    {
+      "legende": "Réservation de billets de train Paris-Rotterdam",
+      "titre": "Eurostar (ex-Thalys)",
+      "url": "https://www.eurostar.com/fr-fr",
+      "symbole": "🚆"
+    }
+  ]
+}
